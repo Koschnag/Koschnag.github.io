@@ -15,4 +15,4 @@
     Join me as we delve deeper into the essence of Clean Code, exploring its principles and understanding its lasting impact on software quality. Your journey towards coding excellence begins here.
 </p>
 
-**[Read more]**(https://github.com/Koschnag/CleanCode/blob/master/ProseminarCongNguyenCleanCodeFinalVersion.pdf)
+**[Read more](https://github.com/Koschnag/CleanCode/blob/master/ProseminarCongNguyenCleanCodeFinalVersion.pdf)**
