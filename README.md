@@ -1,7 +1,8 @@
 #### Welcome to my Website :D
 ###### (Warning: This website is still under construction)
-[About me](#about-me)
-[People API](#building-a-people-management-rest-api-integrating-kubernetes-with-go)
+#### [About me](#about-me)
+#### [People API](#building-a-people-management-rest-api-integrating-kubernetes-with-go)
+#### [Clean Code](#Understanding-Clean-Code-Insights-from-Cong-Nguyen)
 
 ## About me
 <img src="/me.jpg" width="200">
