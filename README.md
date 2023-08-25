@@ -27,20 +27,27 @@
 </p>
 
 ##### Digital Ocean and Kubernetes
-    Kubernetes Cluster on Digital Ocean: For this tutorial, we'll be employing Digital Ocean to establish a Kubernetes cluster. This can be done either through the command line interface (CLI) or via Digital Ocean's graphical user interface (GUI). The choice between CLI and GUI hinges on your comfort level and prior experience.
+<p>
+Kubernetes Cluster on Digital Ocean: For this tutorial, we'll be employing Digital Ocean to establish a Kubernetes cluster. This can be done either through the command line interface (CLI) or via Digital Ocean's graphical user interface (GUI). The choice between CLI and GUI hinges on your comfort level and prior experience.
+</p>
 
 ##### Container Technology
+<p>
     Docker on WSL (Windows Subsystem for Linux): Docker allows us to "containerize" our applications, facilitating easier deployment and scaling. Instead of installing Docker directly on Windows, we'll be leveraging it within the WSL (Windows Subsystem for Linux) for smoother integration and optimal performance. All Docker commands will be executed through the CLI.
+</p>
 
 ##### Development Environment
+<p>
     VS Code: Visual Studio Code, commonly referred to as VS Code, is a popular code editor with a plethora of extensions that ease Go development. With its integration capabilities with WSL and Docker, it stands as an ideal environment for our project.
 
     Go 1.21: Our primary development language for the backend logic will be Go, and for this tutorial, we're using version 1.21. Go is renowned for its performance and simplicity, making it a prime choice for contemporary backend development.
+</p>
 
 ##### Registry
+<p>
     Digital Ocean Registry: To securely and efficiently store our Docker images, we'll utilize the registry provided by Digital Ocean. It offers the capability to host private Docker images, which facilitates integration with our Kubernetes cluster on Digital Ocean.
     With these foundations set, we are now ready to venture into the actual application development. In the next segment, we'll discuss initializing our Go project, setting up our Kubernetes cluster, and weaving these technologies together.
-
+</p>
 
 
 ## Understanding Clean Code: Insights from Cong Nguyen
